@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: bc17ceee54b7966468f629eb454609b7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuPalavras_0
+    21300002: MenuPalavras_1
+    21300004: MenuPalavras_2
+    21300006: MenuPalavras_3
+    21300008: MenuPalavras_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuPalavras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 220
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuPalavras_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 284
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuPalavras_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 149
+        width: 307
+        height: 103
+      alignment: 9
+      pivot: {x: .517483473, y: .428939819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuPalavras_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 354
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuPalavras_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 317
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

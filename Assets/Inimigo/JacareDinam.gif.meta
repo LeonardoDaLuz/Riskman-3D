@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 8d6190e2c48a47a46951624a88a1b6e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JacareDinam
+    21300002: JacareDinam_0
+    21300004: JacareDinam_1
+    21300006: JacareDinam_2
+    21300008: JacareDinam_3
+    21300010: JacareDinam_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JacareDinam_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 53
+        height: 21
+      alignment: 9
+      pivot: {x: .751612127, y: .349726349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JacareDinam_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 47
+        height: 13
+      alignment: 9
+      pivot: {x: .788416028, y: .76202774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JacareDinam_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 69
+        height: 26
+      alignment: 9
+      pivot: {x: .100227758, y: .747971296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JacareDinam_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 1.18186653, y: .837382376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JacareDinam_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 36
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
